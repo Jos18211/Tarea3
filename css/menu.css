@@ -1,6 +1,6 @@
 ﻿#menu {
     display: flex;
-    height: 35px;
+    height: auto;
     margin-bottom: 10px;
     background-color: #142782;
 }
